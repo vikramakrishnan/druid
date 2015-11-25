@@ -5,7 +5,7 @@ commonly used to power exploratory dashboards in multi-tenant environments.
 Druid excels as a data warehousing solution for fast aggregate queries on
 petabyte sized data sets. Druid supports a variety of flexible filters, exact
 calculations, approximate algorithms, and other useful calculations. Druid can
-load both streaming and batch data and integrates with Storm and Hadoop.
+load both streaming (Kafka) and batch data and integrates with Storm and Hadoop.
 
 ### More Information
 Much more information about Druid can be found on our [website](http://www.druid.io).
